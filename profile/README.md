@@ -9,12 +9,13 @@ https://www.cau.ac.kr/index.do) in Korea, majoring in Library and Information Sc
 
 |기수|이름|
 |------|---|
-|1기|강영훈 김가윤 김가인 김민석 김영규 김현지 박하람 신주영 손하영 송채은 송혜민 설지은 조용주 조현서 안지은 이기령 이남규(문헌정보학과) 이육샛별 이정윤 이해영 신윤진 정찬 최은혜|
-|2기||
+|1기|강영훈, 김가윤, 김가인, 김민석, 김영규, 김현지, 박하람, 신윤진, 신주영, 손하영, 송채은, 송혜민, 설지은, 조용주, 조현서, 안지은, 이기령, 이남규(문헌정보학과), 이육샛별, 이정윤, 이해영, 정찬, 최은혜|
+|2기|김가윤, 김가인, 김민석, 김영규, 김현지, 박하람, 신주영, 신경민, 송채은, 송혜민, 설지은, 조현서, 조용주, 안지은, 이남규 (미디어커뮤니케이션학부), 이정윤, 이해영, 최은혜, 허인|
 |3기||
 
+## Projects
+* [COVID-19: Our Memory](http://okfn.kr/projects/covid-19-our-memory/index.html)    
+  * [GitHub](https://github.com/Open-Knowledge-Korea/covid-19-our-memory)  
+* [Cultural Heritage Synapse: Linking National treasure data]()
 
 ## Performance
-▪️ Our performance ➡️ [COVID-19: Our Memory](http://okfn.kr/projects/covid-19-our-memory/index.html)    
-▪️ Our previous github ➡️ [github.com/Open-Knowledge-Korea/covid-19-our-memory](https://github.com/Open-Knowledge-Korea/covid-19-our-memory)
-
