@@ -1,3 +1,5 @@
+![img](../logo/cayley-header-image.png)
+
 ## About Team.Cayley 
 
 Team.Cayley(2022.03 ~) is made up of students from [Chung-Ang University](
