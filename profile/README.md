@@ -1,4 +1,4 @@
-![img](../logo/cayley-header-image.png)
+![img](./logo/cayley-header-image.png)
 
 ## About Team.Cayley 
 
