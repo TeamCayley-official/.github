@@ -5,6 +5,11 @@
 Team.Cayley(2022.03 ~) is made up of students from [Chung-Ang University](
 https://www.cau.ac.kr/index.do) in Korea, majoring in Library and Information Science and [COSADAMA](https://cosadama.com/). With the start of the COVID-19, we began the project titled "COVID-19: Our Memory" and the "Cultural Heritage Synapse" project is in progress. Currently, the third-term members are active and our activities will be continued. 
 
+### Values
+* Value-neutral Digital Archiving
+* Pursuing a sustainable collaboration model
+* Open and share all archived data and source code
+
 ### Members
 
 * Coordinator: 김학래
