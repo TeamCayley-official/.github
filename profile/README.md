@@ -23,7 +23,7 @@ https://www.cau.ac.kr/index.do) in Korea, majoring in Library and Information Sc
 ## Projects
 * [COVID-19: Our Memory](http://okfn.kr/projects/covid-19-our-memory/index.html)    
   * [GitHub](https://github.com/Open-Knowledge-Korea/covid-19-our-memory)  
-* [Cultural Heritage Synapse: Linking National treasure data]()
+* [Cultural Heritage Synapse: Linking National treasure data](https://culturalheritage-teamcayley.netlify.app/)
 
 ## Performance & News
 * 행정안전부 정부혁신해커톤, 커뮤니티상 수상 `2020-07`
