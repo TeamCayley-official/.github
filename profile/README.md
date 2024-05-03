@@ -21,7 +21,7 @@ https://www.cau.ac.kr/index.do) in Korea, majoring in Library and Information Sc
 |3기|김가인, 권예빈, 김영규, 김원영, 김해리, 김현지, 손범준, 설지은, 신주영, 안지은, 이유정, 이정윤, 정예은, 조현서, 최은혜, 허인|
 
 ## Projects
-* [COVID-19: Our Memory](http://okfn.kr/projects/covid-19-our-memory/index.html)    
+* [COVID-19: Our Memory](http://hike.cau.ac.kr/covid-19-our-memory/)    
   * [GitHub](https://github.com/Open-Knowledge-Korea/covid-19-our-memory)  
 * [Cultural Heritage Synapse: Linking National treasure data](https://culturalheritage-teamcayley.netlify.app/)
 
